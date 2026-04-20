@@ -4,7 +4,7 @@ Copyright (c) 2010 Tim Caswell
 
 Copyright (c) 2014 Jordan Harband
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
+Permission is hereby granted, free of charge, to any person obtaining a copy o
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
@@ -20,3 +20,4 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+https://github.com/chalamohammed069-sys/nvm/blob/d200a215594bdda07e130117c9d392fff29cba84/LICENSE.md#L12
